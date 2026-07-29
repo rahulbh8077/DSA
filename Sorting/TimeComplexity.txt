@@ -1,0 +1,33 @@
+There is no single "best" sorting algorithm for every situation. 
+The best choice depends on the size of the data, whether the data is nearly sorted, memory constraints, and whether stability is required.
+
+Tabular Representation is given as follows:
+
+| Sorting Algorithm | Best       | Average    | Worst      | Space    | Stable | Best Use Case                    |
+| ----------------- | ---------- | ---------- | ---------- | -------- | ------ | -------------------------------  |
+| Bubble Sort       | O(n)       | O(n²)      | O(n²)      | O(1)     | ✅ Yes  | Learning only                   |
+| Selection Sort    | O(n²)      | O(n²)      | O(n²)      | O(1)     | ❌ No   | Few memory writes               |
+| Insertion Sort    | O(n)       | O(n²)      | O(n²)      | O(1)     | ✅ Yes  | Small or nearly sorted arrays   |
+| Merge Sort        | O(n log n) | O(n log n) | O(n log n) | O(n)     | ✅ Yes  | Large datasets, stable sorting  |
+| Quick Sort        | O(n log n) | O(n log n) | O(n²)      | O(log n) | ❌ No   | Fastest in practice for arrays  |
+| Heap Sort         | O(n log n) | O(n log n) | O(n log n) | O(1)     | ❌ No   | Memory-constrained applications |
+| Counting Sort     | O(n + k)   | O(n + k)   | O(n + k)   | O(k)     | ✅ Yes  | Small-range integers            |
+| Radix Sort        | O(nk)      | O(nk)      | O(nk)      | O(n + k) | ✅ Yes  | Large sets of integers/strings  |
+| Tim Sort          | O(n)       | O(n log n) | O(n log n) | O(n)     | ✅ Yes  | Real-world applications         |
+
+Which one should you choose?
+
+⭐ For DSA interviews
+Quick Sort – Most commonly asked and very fast on average.
+Merge Sort – Stable and guaranteed O(n log n).
+Heap Sort – Useful when constant extra space is important.
+Insertion Sort – Excellent for nearly sorted arrays.
+⭐ In real-world software
+Tim Sort is widely used because it combines Merge Sort and Insertion Sort.
+Used in Python (sorted(), list.sort())
+Used in Java (Arrays.sort() for objects)
+
+---------------------------------------------------------------------------------------------------------------------------------
+Quick Sort – Fastest on average and frequently asked in interviews.
+Merge Sort – Stable with guaranteed O(n log n).
+Heap Sort – In-place with guaranteed O(n log n).
