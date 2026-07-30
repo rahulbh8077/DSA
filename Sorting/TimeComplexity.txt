@@ -1,7 +1,7 @@
 There is no single "best" sorting algorithm for every situation. 
 The best choice depends on the size of the data, whether the data is nearly sorted, memory constraints, and whether stability is required.
 
-Tabular Representation is given as follows:
+Tabular Representation is given as follows:-
 
 | Sorting Algorithm | Best       | Average    | Worst      | Space    | Stable | Best Use Case                    |
 | ----------------- | ---------- | ---------- | ---------- | -------- | ------ | -------------------------------  |
