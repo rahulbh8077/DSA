@@ -22,7 +22,7 @@ This repository contains my implementations and solutions to various array-based
 
 * **C++**
 
-## 🎯 Purpose
+## 🎯 Purpose:
 
 The goal of this repository is to consistently practice DSA, improve problem-solving skills, understand different approaches, and develop optimized solutions for array-based problems.
 
