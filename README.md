@@ -1,5 +1,5 @@
 # DSA_Array
-# 📚 DSA Array
+# 📚 DSA Array:
 
 Welcome to **DSA Array** — a dedicated repository for learning, practicing, and mastering **Array Data Structures** through problem-solving and coding.
 
