@@ -28,7 +28,7 @@ The goal of this repository is to consistently practice DSA, improve problem-sol
 
 > **Consistency + Practice + Problem Solving = Strong DSA Foundation**
 
-## 📂 Repository Structure
+## 📂 Repository Structure:
 
 ```
 DSA-Array/
