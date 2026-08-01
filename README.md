@@ -18,7 +18,7 @@ This repository contains my implementations and solutions to various array-based
 * 🔹 Array manipulation problems
 * 🔹 Interview and competitive programming problems
 
-## 🛠️ Language Used
+## 🛠️ Language Used:
 
 * **C++**
 
