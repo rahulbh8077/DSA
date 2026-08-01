@@ -5,7 +5,7 @@ Welcome to **DSA Array** — a dedicated repository for learning, practicing, an
 
 This repository contains my implementations and solutions to various array-based problems using **C++**. It is designed to build a strong foundation in Data Structures and Algorithms by focusing on logic building, problem-solving techniques, and efficient solutions.
 
-## 🚀 What You'll Find Here
+## 🚀 What You'll Find Here:
 
 * 🔹 Basic array operations
 * 🔹 Traversal and searching
