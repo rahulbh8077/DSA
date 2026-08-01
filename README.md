@@ -43,7 +43,7 @@ DSA-Array/
 └── Practice Problems/
 ```
 
-## 📈 Learning Journey
+## 📈 Learning Journey:
 
 This repository represents my ongoing journey of learning and mastering **Data Structures and Algorithms**. New problems, concepts, and optimized solutions will be added regularly as I continue improving my DSA skills.
 
