@@ -17,6 +17,7 @@ Tabular Representation is given as follows:-
 | Tim Sort          | O(n)       | O(n log n) | O(n log n) | O(n)     | ✅ Yes  | Real-world applications         |
 
 Which one should you choose?????????????????
+Please Prefer the Following as: 
 
 ⭐ For DSA interviews:-
 Quick Sort – Most commonly asked and very fast on average.
