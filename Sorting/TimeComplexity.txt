@@ -27,6 +27,7 @@ Heap Sort – Useful when constant extra space is important.
 Insertion Sort – Excellent for nearly sorted arrays.
 
 ⭐ In real-world software:-
+Quick Tip"
 Tim Sort is widely used because it combines Merge Sort and Insertion Sort.
 Used in Python (sorted(), list.sort())
 Used in Java (Arrays.sort() for objects)
