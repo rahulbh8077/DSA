@@ -1,4 +1,4 @@
-Time Complexity Analysis for sorting
+Time Complexity Analysis for sorting algorithms
 Note:
 There is no single "best" sorting algorithm for every situation. 
 The best choice depends on the size of the data, whether the data is nearly sorted, memory constraints, and whether stability is required.
