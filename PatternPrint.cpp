@@ -22,7 +22,7 @@ cout<<"pattern printing" << endl;
 
 
 
- // OUTPUT 
+ // the Output of the following code is given  as follows:
 //  *
 // * *
 // * * *
