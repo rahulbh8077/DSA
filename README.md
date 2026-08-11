@@ -50,3 +50,15 @@ For further you can take help from the  uploaded Code vault.
 
 ⭐ If you find this repository useful, consider giving it a star!
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/rahulbh8077/DSA_Array/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/rahulbh8077/DSA_Array/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
