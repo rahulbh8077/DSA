@@ -66,6 +66,7 @@ For further you can take help from the  uploaded Code vault.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rahulbh8077/DSA/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/rahulbh8077/DSA/tree/master/0012-integer-to-roman) |
 ## String
 |  |
@@ -75,4 +76,12 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulbh8077/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rahulbh8077/DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/rahulbh8077/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
