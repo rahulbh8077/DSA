@@ -58,6 +58,7 @@ For further you can take help from the  uploaded Code vault.
 | ------- |
 | [0001-two-sum](https://github.com/rahulbh8077/DSA_Array/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulbh8077/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/rahulbh8077/DSA/tree/master/0012-integer-to-roman) |
+| [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,4 +86,12 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rahulbh8077/DSA/tree/master/0002-add-two-numbers) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
+## Sorting
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
