@@ -59,6 +59,7 @@ For further you can take help from the  uploaded Code vault.
 | [0001-two-sum](https://github.com/rahulbh8077/DSA_Array/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/rahulbh8077/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulbh8077/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/rahulbh8077/DSA/tree/master/0027-remove-element) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
@@ -80,6 +81,7 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulbh8077/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/rahulbh8077/DSA/tree/master/0027-remove-element) |
 ## Linked List
 |  |
 | ------- |
