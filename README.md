@@ -58,6 +58,7 @@ For further you can take help from the  uploaded Code vault.
 | ------- |
 | [0001-two-sum](https://github.com/rahulbh8077/DSA_Array/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/rahulbh8077/DSA/tree/master/0014-longest-common-prefix) |
+| [0016-3sum-closest](https://github.com/rahulbh8077/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulbh8077/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rahulbh8077/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/rahulbh8077/DSA/tree/master/0031-next-permutation) |
@@ -81,6 +82,7 @@ For further you can take help from the  uploaded Code vault.
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/rahulbh8077/DSA/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahulbh8077/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rahulbh8077/DSA/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/rahulbh8077/DSA/tree/master/0031-next-permutation) |
@@ -99,6 +101,7 @@ For further you can take help from the  uploaded Code vault.
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/rahulbh8077/DSA/tree/master/0016-3sum-closest) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 ## Trie
 |  |
