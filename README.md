@@ -65,6 +65,7 @@ For further you can take help from the  uploaded Code vault.
 | [0031-next-permutation](https://github.com/rahulbh8077/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rahulbh8077/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rahulbh8077/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/rahulbh8077/DSA/tree/master/0035-search-insert-position) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 ## Hash Table
 |  |
@@ -117,4 +118,5 @@ For further you can take help from the  uploaded Code vault.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/rahulbh8077/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rahulbh8077/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/rahulbh8077/DSA/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
