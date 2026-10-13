@@ -115,6 +115,7 @@ For further you can take help from the  uploaded Code vault.
 | [0002-add-two-numbers](https://github.com/rahulbh8077/DSA/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/rahulbh8077/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rahulbh8077/DSA/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/rahulbh8077/DSA-Array/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/rahulbh8077/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/rahulbh8077/DSA-Array/tree/master/0066-plus-one) |
 ## String
@@ -271,6 +272,7 @@ For further you can take help from the  uploaded Code vault.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/rahulbh8077/DSA-Array/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/rahulbh8077/DSA-Array/tree/master/0078-subsets) |
 ## Depth-First Search
 |  |
