@@ -96,6 +96,7 @@ For further you can take help from the  uploaded Code vault.
 | [0088-merge-sorted-array](https://github.com/rahulbh8077/DSA-Array/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rahulbh8077/DSA-Array/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rahulbh8077/DSA-Array/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -111,6 +112,7 @@ For further you can take help from the  uploaded Code vault.
 | [0049-group-anagrams](https://github.com/rahulbh8077/DSA/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/rahulbh8077/DSA-Array/tree/master/0073-set-matrix-zeroes) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rahulbh8077/DSA-Array/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Math
 |  |
 | ------- |
@@ -341,8 +343,10 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rahulbh8077/DSA-Array/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rahulbh8077/DSA-Array/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
