@@ -120,6 +120,7 @@ For further you can take help from the  uploaded Code vault.
 | [0012-integer-to-roman](https://github.com/rahulbh8077/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rahulbh8077/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/rahulbh8077/DSA-Array/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/rahulbh8077/DSA-Array/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/rahulbh8077/DSA/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/rahulbh8077/DSA-Array/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rahulbh8077/DSA-Array/tree/master/0067-add-binary) |
@@ -141,6 +142,7 @@ For further you can take help from the  uploaded Code vault.
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rahulbh8077/DSA-Array/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/rahulbh8077/DSA-Array/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/rahulbh8077/DSA-Array/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/rahulbh8077/DSA-Array/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/rahulbh8077/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/rahulbh8077/DSA-Array/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/rahulbh8077/DSA-Array/tree/master/0068-text-justification) |
@@ -269,6 +271,7 @@ For further you can take help from the  uploaded Code vault.
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/rahulbh8077/DSA-Array/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/rahulbh8077/DSA-Array/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/rahulbh8077/DSA-Array/tree/master/0067-add-binary) |
