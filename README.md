@@ -95,6 +95,7 @@ For further you can take help from the  uploaded Code vault.
 | [0085-maximal-rectangle](https://github.com/rahulbh8077/DSA-Array/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/rahulbh8077/DSA-Array/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rahulbh8077/DSA-Array/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rahulbh8077/DSA-Array/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -127,6 +128,7 @@ For further you can take help from the  uploaded Code vault.
 | [0066-plus-one](https://github.com/rahulbh8077/DSA-Array/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rahulbh8077/DSA-Array/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rahulbh8077/DSA-Array/tree/master/0069-sqrtx) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rahulbh8077/DSA-Array/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## String
 |  |
@@ -259,6 +261,7 @@ For further you can take help from the  uploaded Code vault.
 | [0063-unique-paths-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rahulbh8077/DSA-Array/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/rahulbh8077/DSA-Array/tree/master/0085-maximal-rectangle) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sliding Window
 |  |
 | ------- |
@@ -304,6 +307,7 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rahulbh8077/DSA-Array/tree/master/0023-merge-k-sorted-lists) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -361,4 +365,32 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rahulbh8077/DSA-Array/tree/master/0069-sqrtx) |
+## Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
