@@ -130,6 +130,7 @@ For further you can take help from the  uploaded Code vault.
 | [0066-plus-one](https://github.com/rahulbh8077/DSA-Array/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rahulbh8077/DSA-Array/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rahulbh8077/DSA-Array/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/rahulbh8077/DSA-Array/tree/master/0070-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rahulbh8077/DSA-Array/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/rahulbh8077/DSA-Array/tree/master/3886-sum-of-sortable-integers) |
@@ -270,6 +271,7 @@ For further you can take help from the  uploaded Code vault.
 | [0055-jump-game](https://github.com/rahulbh8077/DSA-Array/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rahulbh8077/DSA-Array/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/rahulbh8077/DSA-Array/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/rahulbh8077/DSA-Array/tree/master/0085-maximal-rectangle) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sliding Window
@@ -390,6 +392,7 @@ For further you can take help from the  uploaded Code vault.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/rahulbh8077/DSA-Array/tree/master/0070-climbing-stairs) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
