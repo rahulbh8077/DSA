@@ -160,6 +160,7 @@ For further you can take help from the  uploaded Code vault.
 | [0076-minimum-window-substring](https://github.com/rahulbh8077/DSA-Array/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/rahulbh8077/DSA-Array/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/rahulbh8077/DSA-Array/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Two Pointers
 |  |
 | ------- |
