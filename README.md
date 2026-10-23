@@ -100,6 +100,7 @@ For further you can take help from the  uploaded Code vault.
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rahulbh8077/DSA-Array/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rahulbh8077/DSA-Array/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/rahulbh8077/DSA-Array/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rahulbh8077/DSA-Array/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/rahulbh8077/DSA-Array/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/rahulbh8077/DSA-Array/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -320,6 +321,7 @@ For further you can take help from the  uploaded Code vault.
 | [0029-divide-two-integers](https://github.com/rahulbh8077/DSA-Array/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/rahulbh8077/DSA-Array/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/rahulbh8077/DSA-Array/tree/master/0078-subsets) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/rahulbh8077/DSA-Array/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Depth-First Search
 |  |
 | ------- |
