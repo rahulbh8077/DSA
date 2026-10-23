@@ -131,6 +131,7 @@ For further you can take help from the  uploaded Code vault.
 | [0043-multiply-strings](https://github.com/rahulbh8077/DSA-Array/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/rahulbh8077/DSA/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/rahulbh8077/DSA-Array/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/rahulbh8077/DSA-Array/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/rahulbh8077/DSA-Array/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rahulbh8077/DSA-Array/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rahulbh8077/DSA-Array/tree/master/0069-sqrtx) |
@@ -278,6 +279,7 @@ For further you can take help from the  uploaded Code vault.
 | [0044-wildcard-matching](https://github.com/rahulbh8077/DSA-Array/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/rahulbh8077/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rahulbh8077/DSA-Array/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/rahulbh8077/DSA-Array/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/rahulbh8077/DSA-Array/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rahulbh8077/DSA-Array/tree/master/0070-climbing-stairs) |
@@ -408,6 +410,7 @@ For further you can take help from the  uploaded Code vault.
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/rahulbh8077/DSA-Array/tree/master/0062-unique-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
