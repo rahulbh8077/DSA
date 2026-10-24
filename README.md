@@ -130,6 +130,7 @@ For further you can take help from the  uploaded Code vault.
 | [0029-divide-two-integers](https://github.com/rahulbh8077/DSA-Array/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/rahulbh8077/DSA-Array/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/rahulbh8077/DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/rahulbh8077/DSA-Array/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/rahulbh8077/DSA-Array/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/rahulbh8077/DSA-Array/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/rahulbh8077/DSA-Array/tree/master/0066-plus-one) |
@@ -195,6 +196,7 @@ For further you can take help from the  uploaded Code vault.
 | [0010-regular-expression-matching](https://github.com/rahulbh8077/DSA/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/rahulbh8077/DSA-Array/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/rahulbh8077/DSA-Array/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/rahulbh8077/DSA-Array/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/rahulbh8077/DSA-Array/tree/master/0060-permutation-sequence) |
 ## Greedy
 |  |
