@@ -138,6 +138,7 @@ For further you can take help from the  uploaded Code vault.
 | [0067-add-binary](https://github.com/rahulbh8077/DSA-Array/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rahulbh8077/DSA-Array/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rahulbh8077/DSA-Array/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/rahulbh8077/DSA-Array/tree/master/0089-gray-code) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/rahulbh8077/DSA-Array/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rahulbh8077/DSA-Array/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -265,6 +266,7 @@ For further you can take help from the  uploaded Code vault.
 | [0052-n-queens-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/rahulbh8077/DSA-Array/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/rahulbh8077/DSA-Array/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/rahulbh8077/DSA-Array/tree/master/0089-gray-code) |
 ## Algorithm X
 |  |
 | ------- |
@@ -329,6 +331,7 @@ For further you can take help from the  uploaded Code vault.
 | [0029-divide-two-integers](https://github.com/rahulbh8077/DSA-Array/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/rahulbh8077/DSA-Array/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/rahulbh8077/DSA-Array/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/rahulbh8077/DSA-Array/tree/master/0089-gray-code) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/rahulbh8077/DSA-Array/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Depth-First Search
 |  |
