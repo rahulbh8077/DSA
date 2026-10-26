@@ -140,6 +140,7 @@ For further you can take help from the  uploaded Code vault.
 | [0069-sqrtx](https://github.com/rahulbh8077/DSA-Array/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/rahulbh8077/DSA-Array/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/rahulbh8077/DSA-Array/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/rahulbh8077/DSA-Array/tree/master/0096-unique-binary-search-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/rahulbh8077/DSA-Array/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rahulbh8077/DSA-Array/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -294,6 +295,7 @@ For further you can take help from the  uploaded Code vault.
 | [0064-minimum-path-sum](https://github.com/rahulbh8077/DSA-Array/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/rahulbh8077/DSA-Array/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/rahulbh8077/DSA-Array/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/rahulbh8077/DSA-Array/tree/master/0096-unique-binary-search-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Sliding Window
 |  |
@@ -406,6 +408,7 @@ For further you can take help from the  uploaded Code vault.
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/rahulbh8077/DSA-Array/tree/master/0096-unique-binary-search-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union-Find
 |  |
@@ -416,6 +419,7 @@ For further you can take help from the  uploaded Code vault.
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/rahulbh8077/DSA-Array/tree/master/0096-unique-binary-search-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Memoization
 |  |
@@ -430,6 +434,7 @@ For further you can take help from the  uploaded Code vault.
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/rahulbh8077/DSA-Array/tree/master/0096-unique-binary-search-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Fermat's Little Theorem
 |  |
