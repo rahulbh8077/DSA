@@ -95,6 +95,7 @@ For further you can take help from the  uploaded Code vault.
 | [0085-maximal-rectangle](https://github.com/rahulbh8077/DSA-Array/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/rahulbh8077/DSA-Array/tree/master/0088-merge-sorted-array) |
 | [0149-max-points-on-a-line](https://github.com/rahulbh8077/DSA-Array/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rahulbh8077/DSA-Array/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 | [1254-number-of-closed-islands](https://github.com/rahulbh8077/DSA-Array/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -145,6 +146,7 @@ For further you can take help from the  uploaded Code vault.
 | [0089-gray-code](https://github.com/rahulbh8077/DSA-Array/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/rahulbh8077/DSA-Array/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/rahulbh8077/DSA-Array/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rahulbh8077/DSA-Array/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/rahulbh8077/DSA-Array/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rahulbh8077/DSA-Array/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -373,6 +375,7 @@ For further you can take help from the  uploaded Code vault.
 | [0032-longest-valid-parentheses](https://github.com/rahulbh8077/DSA-Array/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rahulbh8077/DSA-Array/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/rahulbh8077/DSA-Array/tree/master/0085-maximal-rectangle) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rahulbh8077/DSA-Array/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Monotonic Stack
 |  |
 | ------- |
