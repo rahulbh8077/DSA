@@ -183,6 +183,7 @@ For further you can take help from the  uploaded Code vault.
 | [2409-count-days-spent-together](https://github.com/rahulbh8077/DSA-Array/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/rahulbh8077/DSA-Array/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/rahulbh8077/DSA-Array/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rahulbh8077/DSA-Array/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -369,6 +370,7 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rahulbh8077/DSA-Array/tree/master/0023-merge-k-sorted-lists) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rahulbh8077/DSA-Array/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
 |  |
 | ------- |
@@ -482,4 +484,12 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/rahulbh8077/DSA-Array/tree/master/0149-max-points-on-a-line) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rahulbh8077/DSA-Array/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rahulbh8077/DSA-Array/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
