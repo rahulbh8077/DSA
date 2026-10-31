@@ -105,6 +105,7 @@ For further you can take help from the  uploaded Code vault.
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rahulbh8077/DSA-Array/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rahulbh8077/DSA-Array/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/rahulbh8077/DSA-Array/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/rahulbh8077/DSA-Array/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rahulbh8077/DSA-Array/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/rahulbh8077/DSA-Array/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/rahulbh8077/DSA-Array/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -269,6 +270,7 @@ For further you can take help from the  uploaded Code vault.
 | [0085-maximal-rectangle](https://github.com/rahulbh8077/DSA-Array/tree/master/0085-maximal-rectangle) |
 | [1254-number-of-closed-islands](https://github.com/rahulbh8077/DSA-Array/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rahulbh8077/DSA-Array/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/rahulbh8077/DSA-Array/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/rahulbh8077/DSA-Array/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Backtracking
 |  |
@@ -312,6 +314,7 @@ For further you can take help from the  uploaded Code vault.
 | [0085-maximal-rectangle](https://github.com/rahulbh8077/DSA-Array/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/rahulbh8077/DSA-Array/tree/master/0096-unique-binary-search-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3665-twisted-mirror-path-count](https://github.com/rahulbh8077/DSA-Array/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/rahulbh8077/DSA-Array/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sliding Window
 |  |
