@@ -98,6 +98,7 @@ For further you can take help from the  uploaded Code vault.
 | [0150-evaluate-reverse-polish-notation](https://github.com/rahulbh8077/DSA-Array/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rahulbh8077/DSA-Array/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/rahulbh8077/DSA-Array/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rahulbh8077/DSA-Array/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -156,6 +157,7 @@ For further you can take help from the  uploaded Code vault.
 | [0171-excel-sheet-column-number](https://github.com/rahulbh8077/DSA-Array/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/rahulbh8077/DSA-Array/tree/master/0172-factorial-trailing-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rahulbh8077/DSA-Array/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/rahulbh8077/DSA-Array/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rahulbh8077/DSA-Array/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -242,6 +244,7 @@ For further you can take help from the  uploaded Code vault.
 | [0075-sort-colors](https://github.com/rahulbh8077/DSA-Array/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rahulbh8077/DSA-Array/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rahulbh8077/DSA-Array/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rahulbh8077/DSA-Array/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rahulbh8077/DSA-Array/tree/master/3727-maximum-alternating-sum-of-squares) |
