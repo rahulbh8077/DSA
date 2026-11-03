@@ -97,6 +97,7 @@ For further you can take help from the  uploaded Code vault.
 | [0149-max-points-on-a-line](https://github.com/rahulbh8077/DSA-Array/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rahulbh8077/DSA-Array/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/rahulbh8077/DSA-Array/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rahulbh8077/DSA-Array/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1254-number-of-closed-islands](https://github.com/rahulbh8077/DSA-Array/tree/master/1254-number-of-closed-islands) |
@@ -159,6 +160,7 @@ For further you can take help from the  uploaded Code vault.
 | [0171-excel-sheet-column-number](https://github.com/rahulbh8077/DSA-Array/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/rahulbh8077/DSA-Array/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/rahulbh8077/DSA-Array/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/rahulbh8077/DSA-Array/tree/master/0204-count-primes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rahulbh8077/DSA-Array/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -484,6 +486,7 @@ For further you can take help from the  uploaded Code vault.
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/rahulbh8077/DSA-Array/tree/master/0204-count-primes) |
 | [3886-sum-of-sortable-integers](https://github.com/rahulbh8077/DSA-Array/tree/master/3886-sum-of-sortable-integers) |
 ## Breadth-First Search
 |  |
@@ -514,4 +517,20 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/rahulbh8077/DSA-Array/tree/master/0202-happy-number) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rahulbh8077/DSA-Array/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rahulbh8077/DSA-Array/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rahulbh8077/DSA-Array/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rahulbh8077/DSA-Array/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
