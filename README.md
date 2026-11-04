@@ -163,6 +163,7 @@ For further you can take help from the  uploaded Code vault.
 | [0172-factorial-trailing-zeroes](https://github.com/rahulbh8077/DSA-Array/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/rahulbh8077/DSA-Array/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/rahulbh8077/DSA-Array/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/rahulbh8077/DSA-Array/tree/master/0223-rectangle-area) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rahulbh8077/DSA-Array/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -503,6 +504,7 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/rahulbh8077/DSA-Array/tree/master/0149-max-points-on-a-line) |
+| [0223-rectangle-area](https://github.com/rahulbh8077/DSA-Array/tree/master/0223-rectangle-area) |
 ## Euclidean Algorithm
 |  |
 | ------- |
