@@ -105,6 +105,7 @@ For further you can take help from the  uploaded Code vault.
 | [2089-find-target-indices-after-sorting-array](https://github.com/rahulbh8077/DSA-Array/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rahulbh8077/DSA-Array/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rahulbh8077/DSA-Array/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rahulbh8077/DSA-Array/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/rahulbh8077/DSA-Array/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/rahulbh8077/DSA-Array/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -134,6 +135,7 @@ For further you can take help from the  uploaded Code vault.
 | [0202-happy-number](https://github.com/rahulbh8077/DSA-Array/tree/master/0202-happy-number) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rahulbh8077/DSA-Array/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rahulbh8077/DSA-Array/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rahulbh8077/DSA-Array/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Math
 |  |
@@ -165,6 +167,7 @@ For further you can take help from the  uploaded Code vault.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/rahulbh8077/DSA-Array/tree/master/2409-count-days-spent-together) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rahulbh8077/DSA-Array/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rahulbh8077/DSA-Array/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rahulbh8077/DSA-Array/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3886-sum-of-sortable-integers](https://github.com/rahulbh8077/DSA-Array/tree/master/3886-sum-of-sortable-integers) |
@@ -329,6 +332,7 @@ For further you can take help from the  uploaded Code vault.
 | [0085-maximal-rectangle](https://github.com/rahulbh8077/DSA-Array/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/rahulbh8077/DSA-Array/tree/master/0096-unique-binary-search-trees) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rahulbh8077/DSA-Array/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/rahulbh8077/DSA-Array/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/rahulbh8077/DSA-Array/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Sliding Window
@@ -337,6 +341,7 @@ For further you can take help from the  uploaded Code vault.
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulbh8077/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rahulbh8077/DSA-Array/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/rahulbh8077/DSA-Array/tree/master/0076-minimum-window-substring) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rahulbh8077/DSA-Array/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Manacher
 |  |
 | ------- |
@@ -390,6 +395,7 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rahulbh8077/DSA-Array/tree/master/0023-merge-k-sorted-lists) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rahulbh8077/DSA-Array/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rahulbh8077/DSA-Array/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
 |  |
