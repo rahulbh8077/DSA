@@ -167,6 +167,7 @@ For further you can take help from the  uploaded Code vault.
 | [0204-count-primes](https://github.com/rahulbh8077/DSA-Array/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/rahulbh8077/DSA-Array/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/rahulbh8077/DSA-Array/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0227-basic-calculator-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rahulbh8077/DSA-Array/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -204,6 +205,7 @@ For further you can take help from the  uploaded Code vault.
 | [0171-excel-sheet-column-number](https://github.com/rahulbh8077/DSA-Array/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/rahulbh8077/DSA-Array/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0227-basic-calculator-ii) |
 | [2409-count-days-spent-together](https://github.com/rahulbh8077/DSA-Array/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/rahulbh8077/DSA-Array/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/rahulbh8077/DSA-Array/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -423,6 +425,7 @@ For further you can take help from the  uploaded Code vault.
 | [0085-maximal-rectangle](https://github.com/rahulbh8077/DSA-Array/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rahulbh8077/DSA-Array/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/rahulbh8077/DSA-Array/tree/master/0224-basic-calculator) |
+| [0227-basic-calculator-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0227-basic-calculator-ii) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/rahulbh8077/DSA-Array/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Monotonic Stack
 |  |
