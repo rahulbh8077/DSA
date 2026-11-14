@@ -169,6 +169,7 @@ For further you can take help from the  uploaded Code vault.
 | [0223-rectangle-area](https://github.com/rahulbh8077/DSA-Array/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/rahulbh8077/DSA-Array/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/rahulbh8077/DSA-Array/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rahulbh8077/DSA-Array/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -244,6 +245,7 @@ For further you can take help from the  uploaded Code vault.
 | [0050-powx-n](https://github.com/rahulbh8077/DSA-Array/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/rahulbh8077/DSA-Array/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/rahulbh8077/DSA-Array/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/rahulbh8077/DSA-Array/tree/master/0231-power-of-two) |
 ## Greedy
 |  |
 | ------- |
@@ -389,6 +391,7 @@ For further you can take help from the  uploaded Code vault.
 | [0067-add-binary](https://github.com/rahulbh8077/DSA-Array/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/rahulbh8077/DSA-Array/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/rahulbh8077/DSA-Array/tree/master/0089-gray-code) |
+| [0231-power-of-two](https://github.com/rahulbh8077/DSA-Array/tree/master/0231-power-of-two) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/rahulbh8077/DSA-Array/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/rahulbh8077/DSA-Array/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/rahulbh8077/DSA-Array/tree/master/3882-minimum-xor-path-in-a-grid) |
