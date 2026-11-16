@@ -210,6 +210,7 @@ For further you can take help from the  uploaded Code vault.
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/rahulbh8077/DSA-Array/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0227-basic-calculator-ii) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rahulbh8077/DSA-Array/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/rahulbh8077/DSA-Array/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/rahulbh8077/DSA-Array/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/rahulbh8077/DSA-Array/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -378,6 +379,7 @@ For further you can take help from the  uploaded Code vault.
 | [0059-spiral-matrix-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/rahulbh8077/DSA-Array/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/rahulbh8077/DSA-Array/tree/master/0068-text-justification) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/rahulbh8077/DSA-Array/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Quicksort
 |  |
 | ------- |
