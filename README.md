@@ -212,6 +212,7 @@ For further you can take help from the  uploaded Code vault.
 | [0227-basic-calculator-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0227-basic-calculator-ii) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/rahulbh8077/DSA-Array/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/rahulbh8077/DSA-Array/tree/master/2409-count-days-spent-together) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/rahulbh8077/DSA-Array/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/rahulbh8077/DSA-Array/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/rahulbh8077/DSA-Array/tree/master/3863-minimum-operations-to-sort-a-string) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rahulbh8077/DSA-Array/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -231,6 +232,7 @@ For further you can take help from the  uploaded Code vault.
 | [0088-merge-sorted-array](https://github.com/rahulbh8077/DSA-Array/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/rahulbh8077/DSA-Array/tree/master/0202-happy-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rahulbh8077/DSA-Array/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/rahulbh8077/DSA-Array/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Linked List
 |  |
 | ------- |
@@ -350,6 +352,7 @@ For further you can take help from the  uploaded Code vault.
 | [0096-unique-binary-search-trees](https://github.com/rahulbh8077/DSA-Array/tree/master/0096-unique-binary-search-trees) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rahulbh8077/DSA-Array/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/rahulbh8077/DSA-Array/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rahulbh8077/DSA-Array/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3665-twisted-mirror-path-count](https://github.com/rahulbh8077/DSA-Array/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/rahulbh8077/DSA-Array/tree/master/3882-minimum-xor-path-in-a-grid) |
