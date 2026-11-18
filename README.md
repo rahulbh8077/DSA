@@ -172,6 +172,7 @@ For further you can take help from the  uploaded Code vault.
 | [0227-basic-calculator-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/rahulbh8077/DSA-Array/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/rahulbh8077/DSA-Array/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/rahulbh8077/DSA-Array/tree/master/0241-different-ways-to-add-parentheses) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rahulbh8077/DSA-Array/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rahulbh8077/DSA-Array/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -211,6 +212,7 @@ For further you can take help from the  uploaded Code vault.
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/rahulbh8077/DSA-Array/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0227-basic-calculator-ii) |
+| [0241-different-ways-to-add-parentheses](https://github.com/rahulbh8077/DSA-Array/tree/master/0241-different-ways-to-add-parentheses) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/rahulbh8077/DSA-Array/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/rahulbh8077/DSA-Array/tree/master/2409-count-days-spent-together) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/rahulbh8077/DSA-Array/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -254,6 +256,7 @@ For further you can take help from the  uploaded Code vault.
 | [0224-basic-calculator](https://github.com/rahulbh8077/DSA-Array/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/rahulbh8077/DSA-Array/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/rahulbh8077/DSA-Array/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/rahulbh8077/DSA-Array/tree/master/0241-different-ways-to-add-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -354,6 +357,7 @@ For further you can take help from the  uploaded Code vault.
 | [0085-maximal-rectangle](https://github.com/rahulbh8077/DSA-Array/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/rahulbh8077/DSA-Array/tree/master/0096-unique-binary-search-trees) |
 | [0233-number-of-digit-one](https://github.com/rahulbh8077/DSA-Array/tree/master/0233-number-of-digit-one) |
+| [0241-different-ways-to-add-parentheses](https://github.com/rahulbh8077/DSA-Array/tree/master/0241-different-ways-to-add-parentheses) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rahulbh8077/DSA-Array/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/rahulbh8077/DSA-Array/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -378,6 +382,7 @@ For further you can take help from the  uploaded Code vault.
 | ------- |
 | [0022-generate-parentheses](https://github.com/rahulbh8077/DSA-Array/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/rahulbh8077/DSA-Array/tree/master/0032-longest-valid-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/rahulbh8077/DSA-Array/tree/master/0241-different-ways-to-add-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -508,6 +513,7 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rahulbh8077/DSA-Array/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/rahulbh8077/DSA-Array/tree/master/0241-different-ways-to-add-parentheses) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Combinatorics
 |  |
