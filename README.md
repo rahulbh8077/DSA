@@ -174,6 +174,7 @@ For further you can take help from the  uploaded Code vault.
 | [0231-power-of-two](https://github.com/rahulbh8077/DSA-Array/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/rahulbh8077/DSA-Array/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rahulbh8077/DSA-Array/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/rahulbh8077/DSA-Array/tree/master/0258-add-digits) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rahulbh8077/DSA-Array/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rahulbh8077/DSA-Array/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -394,6 +395,7 @@ For further you can take help from the  uploaded Code vault.
 | [0059-spiral-matrix-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/rahulbh8077/DSA-Array/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/rahulbh8077/DSA-Array/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/rahulbh8077/DSA-Array/tree/master/0258-add-digits) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/rahulbh8077/DSA-Array/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Quicksort
 |  |
@@ -571,6 +573,7 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rahulbh8077/DSA-Array/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/rahulbh8077/DSA-Array/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
