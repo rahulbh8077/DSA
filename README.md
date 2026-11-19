@@ -105,6 +105,7 @@ For further you can take help from the  uploaded Code vault.
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rahulbh8077/DSA-Array/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rahulbh8077/DSA-Array/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/rahulbh8077/DSA-Array/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rahulbh8077/DSA-Array/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/rahulbh8077/DSA-Array/tree/master/3364-minimum-positive-sum-subarray) |
@@ -264,6 +265,7 @@ For further you can take help from the  uploaded Code vault.
 | [0045-jump-game-ii](https://github.com/rahulbh8077/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/rahulbh8077/DSA-Array/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/rahulbh8077/DSA/tree/master/0179-largest-number) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/rahulbh8077/DSA-Array/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rahulbh8077/DSA-Array/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rahulbh8077/DSA-Array/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
@@ -280,6 +282,7 @@ For further you can take help from the  uploaded Code vault.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rahulbh8077/DSA-Array/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rahulbh8077/DSA-Array/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/rahulbh8077/DSA-Array/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rahulbh8077/DSA-Array/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/rahulbh8077/DSA-Array/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/rahulbh8077/DSA-Array/tree/master/3886-sum-of-sortable-integers) |
