@@ -177,6 +177,7 @@ For further you can take help from the  uploaded Code vault.
 | [0233-number-of-digit-one](https://github.com/rahulbh8077/DSA-Array/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rahulbh8077/DSA-Array/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/rahulbh8077/DSA-Array/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/rahulbh8077/DSA-Array/tree/master/0263-ugly-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rahulbh8077/DSA-Array/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/rahulbh8077/DSA-Array/tree/master/1352-product-of-the-last-k-numbers) |
