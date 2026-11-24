@@ -111,6 +111,7 @@ For further you can take help from the  uploaded Code vault.
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/rahulbh8077/DSA-Array/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3364-minimum-positive-sum-subarray](https://github.com/rahulbh8077/DSA-Array/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rahulbh8077/DSA-Array/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/rahulbh8077/DSA-Array/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rahulbh8077/DSA-Array/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/rahulbh8077/DSA-Array/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -184,6 +185,7 @@ For further you can take help from the  uploaded Code vault.
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rahulbh8077/DSA-Array/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2409-count-days-spent-together](https://github.com/rahulbh8077/DSA-Array/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rahulbh8077/DSA-Array/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rahulbh8077/DSA-Array/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rahulbh8077/DSA-Array/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/rahulbh8077/DSA-Array/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -381,6 +383,7 @@ For further you can take help from the  uploaded Code vault.
 | [0030-substring-with-concatenation-of-all-words](https://github.com/rahulbh8077/DSA-Array/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/rahulbh8077/DSA-Array/tree/master/0076-minimum-window-substring) |
 | [3364-minimum-positive-sum-subarray](https://github.com/rahulbh8077/DSA-Array/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rahulbh8077/DSA-Array/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/rahulbh8077/DSA-Array/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rahulbh8077/DSA-Array/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Manacher
@@ -544,6 +547,7 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rahulbh8077/DSA-Array/tree/master/0204-count-primes) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rahulbh8077/DSA-Array/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/rahulbh8077/DSA-Array/tree/master/3886-sum-of-sortable-integers) |
 ## Breadth-First Search
 |  |
@@ -580,6 +584,7 @@ For further you can take help from the  uploaded Code vault.
 | ------- |
 | [0204-count-primes](https://github.com/rahulbh8077/DSA-Array/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/rahulbh8077/DSA-Array/tree/master/0258-add-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/rahulbh8077/DSA-Array/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Primality Test
 |  |
 | ------- |
