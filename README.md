@@ -141,6 +141,7 @@ For further you can take help from the  uploaded Code vault.
 | [0149-max-points-on-a-line](https://github.com/rahulbh8077/DSA-Array/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/rahulbh8077/DSA-Array/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/rahulbh8077/DSA-Array/tree/master/0202-happy-number) |
+| [0264-ugly-number-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0264-ugly-number-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/rahulbh8077/DSA-Array/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rahulbh8077/DSA-Array/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -179,6 +180,7 @@ For further you can take help from the  uploaded Code vault.
 | [0241-different-ways-to-add-parentheses](https://github.com/rahulbh8077/DSA-Array/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/rahulbh8077/DSA-Array/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/rahulbh8077/DSA-Array/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0264-ugly-number-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/rahulbh8077/DSA-Array/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/rahulbh8077/DSA-Array/tree/master/1352-product-of-the-last-k-numbers) |
@@ -369,6 +371,7 @@ For further you can take help from the  uploaded Code vault.
 | [0096-unique-binary-search-trees](https://github.com/rahulbh8077/DSA-Array/tree/master/0096-unique-binary-search-trees) |
 | [0233-number-of-digit-one](https://github.com/rahulbh8077/DSA-Array/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/rahulbh8077/DSA-Array/tree/master/0241-different-ways-to-add-parentheses) |
+| [0264-ugly-number-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0264-ugly-number-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/rahulbh8077/DSA-Array/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/rahulbh8077/DSA-Array/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/rahulbh8077/DSA-Array/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
@@ -443,6 +446,7 @@ For further you can take help from the  uploaded Code vault.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rahulbh8077/DSA-Array/tree/master/0023-merge-k-sorted-lists) |
+| [0264-ugly-number-ii](https://github.com/rahulbh8077/DSA-Array/tree/master/0264-ugly-number-ii) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/rahulbh8077/DSA-Array/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/rahulbh8077/DSA-Array/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Merge Sort
